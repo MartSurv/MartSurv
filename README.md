@@ -7,7 +7,7 @@
 My daily tools:
 * **Front-end**: HTML | CSS (SASS, BEM) | JavaScript ES5 & ES6+ | React.js
 * **Back-end**: Node.js (Express.js, EJS) | MongoDB (Mongoose)
-* **Other**: npm | Git | Gulp | Webpack | Babel | Hyper | Heroku | Netlify
+* **Other**: npm | git | Gulp | Webpack | Babel | Hyper | Heroku | Netlify
 
 ---
 

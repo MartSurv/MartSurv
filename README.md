@@ -5,9 +5,9 @@
 # Hi there &#128075; my name is Martynas Survila!
 
 My daily tools:
-* **Front-end**: HTML | CSS (SASS, BEM) | JavaScript ES6+ | React & Redux
-* **Back-end**: Node.js (Express.js) | MongoDB (Mongoose)
-* **Other**: npm | git | Gulp | Webpack | Babel | Hyper | Heroku | Netlify
+* **Front-end**: HTML | CSS (SASS, BEM) | JavaScript ES6+ | React.js | Gatsby.js
+* **Back-end**: Node.js (Express.js) | Apollo GraphQL
+* **Other**: npm | git | Webpack | Babel | Heroku | Netlify | WordPress and more
 
 ---
 

@@ -19,5 +19,5 @@ My daily tools:
 
 ## My GitHub Stats &#128200;
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartSurv&title_color=2DCBB3&bg_color=020A11&text_color=C7F6F3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartSurv&title_color=2DCBB3&bg_color=020A11&text_color=C7F6F3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  [![Martyna's github stats](https://github-readme-stats.vercel.app/api?username=MartSurv&title_color=2DCBB3&bg_color=020A11&text_color=C7F6F3&include_all_commits=true&show_icons=true&icon_color=2DCBB3)](https://github.com/anuraghazra/github-readme-stats)

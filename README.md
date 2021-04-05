@@ -7,7 +7,8 @@
 My daily tools:
 * **Front-end**: HTML | CSS (SASS, BEM) | JavaScript ES6+ | React.js | Gatsby.js
 * **Back-end**: Node.js (Express.js) | Apollo GraphQL
-* **Other**: npm | git | Webpack | Babel | Heroku | Netlify | WordPress and more
+* **CMS**: WordPress | Contentful
+* **Other**: npm | git | Webpack | Babel | Heroku | Netlify and more
 
 ---
 

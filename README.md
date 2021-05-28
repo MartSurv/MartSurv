@@ -5,7 +5,7 @@
 # Hi there &#128075; my name is Martynas Survila!
 
 My daily tools:
-* **Front-end**: HTML | CSS (SASS, BEM) | JavaScript (TypeScript, React.js, Gatsby.js, Vue.js)
+* **Front-end**: HTML | CSS (SASS) | JavaScript (TypeScript, React.js, Gatsby.js)
 * **Back-end**: Node.js (Express.js) | Apollo GraphQL
 * **CMS**: WordPress | Contentful
 * **Other**: npm | git | Webpack | Babel | Heroku | Netlify and more

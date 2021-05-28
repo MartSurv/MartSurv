@@ -2,7 +2,7 @@
 
 ---
 
-# Hi there &#128075; my name is Martynas Survila!
+# Hi there &#128075; my name is Martynas!
 
 My daily tools:
 * **Front-end**: HTML | CSS (SASS) | JavaScript (TypeScript, React.js, Gatsby.js)

@@ -5,15 +5,15 @@
 # Hi there &#128075; my name is Martynas!
 
 My daily tools:
-* **Front-end**: HTML | CSS (SASS) | JavaScript (TypeScript, React.js, Gatsby.js)
-* **Back-end**: Node.js (Express.js) | Apollo GraphQL
-* **CMS**: WordPress | Contentful
-* **Other**: npm | git | Webpack | Babel | Heroku | Netlify and more
+* **Front-End:** HTML | CSS (SASS) | JavaScript (TypeScript, React.js, Next.js)
+* **Back-End:** Node.js
+* **CMS:** WordPress | Contentful
+* **Other:** npm, yarn, pnpm | git | webpack, vite | eslint, stylelint, prettier | Jest, React Testing Library | Contentful | Heroku | Netlify and more...
 
 ---
 
 ## You can also find me on &#128269;
-[LinkedIn <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" height="30" />](https://www.linkedin.com/in/martynas-survila/) **|** [Twitter <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="twitter" height="30" />](https://twitter.com/MartSurv)
+[LinkedIn <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" height="30" />](https://www.linkedin.com/in/martynas-survila/)
 
 ---
 

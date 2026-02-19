@@ -1,4 +1,4 @@
-![Banner](https://github.com/MartSurv/MartSurv/assets/47948087/022f8217-8e4c-4dc1-a5a3-53d28bfc3c0b)
+<img width="1500" height="500" alt="Banner" src="https://github.com/user-attachments/assets/5c9d32ed-07ab-4c3c-beaf-0f1205ed08a2" />
 
 ---
 
